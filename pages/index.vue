@@ -1,5 +1,3 @@
 <template functional>
-  <section>
-    Hups
-  </section>
+  <section data-test="container">Hups</section>
 </template>

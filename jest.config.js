@@ -4,4 +4,6 @@ module.exports = {
     '^.+\\.js$': 'babel-jest',
     '^.+\\.vue$': 'vue-jest',
   },
+  setupFiles: ['./jest.setup.js'],
+  setupFilesAfterEnv: ['./jest.extend.js'],
 }
