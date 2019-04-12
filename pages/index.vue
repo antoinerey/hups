@@ -1,5 +1,5 @@
 <template functional>
   <section>
-    Hups
+    Hups (Awesome)
   </section>
 </template>
