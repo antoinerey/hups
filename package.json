@@ -1,0 +1,16 @@
+{
+  "name": "hups",
+  "version": "1.0.0",
+  "description": "My legendary Nuxt.js project",
+  "author": "Antoine Rey",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.4.0"
+  }
+}
