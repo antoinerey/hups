@@ -1,4 +1,4 @@
-# hups
+# Hups
 
 > My legendary Nuxt.js project
 
